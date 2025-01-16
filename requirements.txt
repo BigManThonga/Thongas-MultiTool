@@ -1,0 +1,6 @@
+psutil
+py-cpuinfo
+Pillow
+PyMuPDF
+yt_dlp
+pygame
